@@ -10,7 +10,7 @@
 
 **💬Bora conversar e trocar vivências? Só me chamar por aqui:☎**
 <p align="left">
-  <a href="mailto:giovnn.alves@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail">
+  <a href="mailto:giovnn.alves@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=giovnn.alves@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/giovanna-alves-gica/" target="_blank" rel="noopener noreferrer" alt="Linkedin">
