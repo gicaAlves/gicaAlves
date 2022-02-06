@@ -97,7 +97,7 @@
 
 
 <h6><em>thanks for the attention! 💜</em></h6>
-<h6><em>presentinho --></em></h6>
+<h6><em>presentinho⤵</em></h6>
 <div align="text-align">
  <img src="https://user-images.githubusercontent.com/85961354/152671015-1425abd0-ad07-4024-a7d8-f1e06cdbbd57.png" width="100px"/>
 </div>
