@@ -1,9 +1,10 @@
-# ✨Oi, sou a Gica! 👩🏾‍💻
+# ✨Oi, sou a Gica! 👩🏽‍💻
 >*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
 <br/>
 
+
 <div align="center">
- <img src="https://user-images.githubusercontent.com/85961354/152669672-1a1a8d77-16d4-406c-b0ec-b79444e6d35c.png" width="1005px"/>
+ <img src="https://user-images.githubusercontent.com/85961354/152687666-f25ddcf6-5e62-496d-af06-fd0a5a2951c2.png" width="1005px"/>
 </div>
 <br/>
 
