@@ -91,9 +91,20 @@
   
    <a href="https://www.instagram.com/gpmf_gica/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gpmf_gica/"/></a>
-</p>  
+</p>
+<br/>
 
 ----
+### 📊Stats⭐:
+<p align="center" style="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=gicaAlves&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" alt="jolly-theme"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gicaAlves&layout=compact&langs_count=12&title_color=F361D0&icon_color=281A3E&text_color=ffff&bg_color=281A3E" alt="most-languages-gicaAlves"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gicaAlves&repo=github-readme-stats&cache_seconds=86400&theme=jolly" alt="repo_card-jolly"/>
+
+</p>
+<br/>
+<hr/>
+
 ### 🐍Cobrinha comilona 🥑
 ![Snake animation](https://github.com/gicaAlves/gicaAlves/blob/output/github-contribution-grid-snake.svg)
 
