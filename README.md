@@ -1,15 +1,15 @@
-### ✨Oi, sou a Gica! 👩🏾‍💻
-> *Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
+# ✨Oi, sou a Gica! 👩🏾‍💻
+>*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
 <br/>
-
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/85961354/152669672-1a1a8d77-16d4-406c-b0ec-b79444e6d35c.png" width="1005px"/>
 </div>
-
+<br/>
 
 ---
 ## 🧩Skills and Tools🧭
+
 **📑Languages🎠:**
 <p align="center" style="display: flex;">
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
