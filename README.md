@@ -1,5 +1,8 @@
 # ✨Oi, sou a Gica! 👩🏽‍💻
 >*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
+
+* 👩🏽‍💻Estudante de Desenvolvimento de Sistemas 🚀
+* 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
 <br/>
 
 
