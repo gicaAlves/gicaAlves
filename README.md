@@ -5,6 +5,8 @@
 * 👩🏽‍💻Estudante de Desenvolvimento de Sistemas 🚀
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
 
+🎉
+
 <br/>
 
 
