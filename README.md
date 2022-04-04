@@ -2,7 +2,7 @@
 >*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
 
 * 🎈16+1 anos 🎢
-* 👩🏽‍💻Estudante de Desenvolvimento de Sistemas 🚀
+* 👩🏽‍💻Estudante no Curso Técnico em Desenvolvimento de Sistemas 🚀
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
 
 🎉
