@@ -5,6 +5,8 @@
 * 👩🏽‍💻Estudante no Curso Técnico em Desenvolvimento de Sistemas 🚀
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
 
+Aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
+
 
 <br/>
 
