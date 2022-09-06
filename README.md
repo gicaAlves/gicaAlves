@@ -1,4 +1,4 @@
-# ✨Oi, sou a Gica! 👩🏽‍💻
+# ✨Oio, sou a Gica! 👩🏽‍💻
 >*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
 
 * 🎈16+1 anos 🎢
