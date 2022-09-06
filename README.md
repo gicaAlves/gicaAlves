@@ -2,8 +2,9 @@
 >*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
 
 * 🎈16+1 anos 🎢
-* 👩🏽‍💻Estudante no Curso Técnico em Desenvolvimento de Sistemas 🚀
+* 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 🚀
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
+* 📝Participando e estudando no Bootcamp de Front-end do Minas Progamam 💚
 
 Aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
 
