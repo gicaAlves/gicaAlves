@@ -6,7 +6,7 @@
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
 * 📝Participando e estudando no Bootcamp de Front-end do Minas Progamam 💚
 
-Aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
+...aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
 
 
 <br/>
