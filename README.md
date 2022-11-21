@@ -1,7 +1,7 @@
 # ✨Oi, sou a Gica! 👩🏽‍💻
 >*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
 
-* 🎈16+1 anos 🎢
+* 🎈18 anos 🎢
 * 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 🚀
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
 * 📝Participando e estudando no Bootcamp de Front-end do Minas Progamam 💚
