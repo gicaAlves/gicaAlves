@@ -4,7 +4,9 @@
 * 🎈18 anos 🎢
 * 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 🚀
 * 👷🏽‍♀️Técnica em Segurança do Trabalho ⛑
-* 📝Participando e estudando no Bootcamp de Front-end do Minas Progamam 💚
+
+
+🎉Conclui recentemente o Bootcamp de Front-end do Minas Progamam 💚
 
 ...aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
 
