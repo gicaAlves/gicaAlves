@@ -1,5 +1,5 @@
 # ✨Oi, sou a Gica! 👩🏽‍💻
->*Na verdade meu nome é Giovanna, mas Gica ou Gi é bem mais legal 👻*
+>*Na verdade meu nome é Giovanna, mas pode me chamar de Gica 👻*
 
 * 🎈18 anos 🎢
 * 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 🚀
