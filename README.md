@@ -8,6 +8,10 @@
 
 🎉Conclui recentemente o Bootcamp de Front-end do Minas Progamam 💚
 
+📚Atualmente estou estudando pelo Bootcamp ONE - Oracle Next Education + Alura🚀
+
+
+
 ...aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
 
 
