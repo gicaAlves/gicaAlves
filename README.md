@@ -4,8 +4,9 @@
 * 🎈18 anos 🎢
 * 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 🚀
 * 👩🏽‍🏫Monitora no Curso do Minas Programam
-<br/>
+
 🎉Conclui recentemente o Bootcamp de Front-end do Minas Progamam 💚
+
 📚Atualmente estou estudando pelo Bootcamp ONE - Oracle Next Education + Alura🚀
 
 
