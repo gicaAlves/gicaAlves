@@ -1,7 +1,6 @@
 # ✨Oi, sou a Gica! 👩🏽‍💻
 >*Na verdade meu nome é Giovanna, mas pode me chamar de Gica 👻*
 
-* 🎈18 anos 🎢
 * 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 🚀
 * 👩🏽‍🏫Monitora no Curso do Minas Programam
 
