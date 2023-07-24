@@ -1,9 +1,10 @@
 # ✨Oi, sou a Gica! 👩🏽‍💻
 >*Na verdade meu nome é Giovanna, mas pode me chamar de Gica 👻*
 
-* 🤹🏽‍♀️Analista de Suporte ERP|TOTVS Júnior na Alice
-* 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 
+* 🤹🏽‍♀️Analista de Suporte ERP - TOTVS Júnior na Alice
 * 👩🏽‍🏫Monitora no Curso do Minas Programam
+* 👩🏽‍💻Técnica em Desenvolvimento de Sistemas 
+
 
 
 
