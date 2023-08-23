@@ -12,7 +12,7 @@
 
 
 
-...aqui existem muitos projetos inacabados, mas que uma hora ou outra ficam prontinhos! 
+
 
 
 <br/>
